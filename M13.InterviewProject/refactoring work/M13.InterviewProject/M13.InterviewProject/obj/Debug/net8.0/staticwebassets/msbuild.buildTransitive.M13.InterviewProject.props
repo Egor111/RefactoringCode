@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\M13.InterviewProject.props" />
-</Project>
