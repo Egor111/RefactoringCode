@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\M13.InterviewProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31102FCE-EF4C-4920-A920-69C8EEA7E314}|M13.InterviewProject\\M13.InterviewProject.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\m13.interviewproject\\m13.interviewproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31102FCE-EF4C-4920-A920-69C8EEA7E314}|M13.InterviewProject\\M13.InterviewProject.csproj|solutionrelative:m13.interviewproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31102FCE-EF4C-4920-A920-69C8EEA7E314}|M13.InterviewProject\\M13.InterviewProject.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\m13.interviewproject\\m13.interviewproject\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31102FCE-EF4C-4920-A920-69C8EEA7E314}|M13.InterviewProject\\M13.InterviewProject.csproj|solutionrelative:m13.interviewproject\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31102FCE-EF4C-4920-A920-69C8EEA7E314}|M13.InterviewProject\\M13.InterviewProject.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\m13.interviewproject\\m13.interviewproject\\services\\spellcheckerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31102FCE-EF4C-4920-A920-69C8EEA7E314}|M13.InterviewProject\\M13.InterviewProject.csproj|solutionrelative:m13.interviewproject\\services\\spellcheckerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31102FCE-EF4C-4920-A920-69C8EEA7E314}|M13.InterviewProject\\M13.InterviewProject.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\m13.interviewproject\\m13.interviewproject\\models\\spellererrorsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31102FCE-EF4C-4920-A920-69C8EEA7E314}|M13.InterviewProject\\M13.InterviewProject.csproj|solutionrelative:m13.interviewproject\\models\\spellererrorsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31102FCE-EF4C-4920-A920-69C8EEA7E314}|M13.InterviewProject\\M13.InterviewProject.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\m13.interviewproject\\m13.interviewproject\\services\\webpageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31102FCE-EF4C-4920-A920-69C8EEA7E314}|M13.InterviewProject\\M13.InterviewProject.csproj|solutionrelative:m13.interviewproject\\services\\webpageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31102FCE-EF4C-4920-A920-69C8EEA7E314}|M13.InterviewProject\\M13.InterviewProject.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\m13.interviewproject\\m13.interviewproject\\services\\ruleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31102FCE-EF4C-4920-A920-69C8EEA7E314}|M13.InterviewProject\\M13.InterviewProject.csproj|solutionrelative:m13.interviewproject\\services\\ruleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31102FCE-EF4C-4920-A920-69C8EEA7E314}|M13.InterviewProject\\M13.InterviewProject.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\m13.interviewproject\\m13.interviewproject\\interfaces\\ispellcheckerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31102FCE-EF4C-4920-A920-69C8EEA7E314}|M13.InterviewProject\\M13.InterviewProject.csproj|solutionrelative:m13.interviewproject\\interfaces\\ispellcheckerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31102FCE-EF4C-4920-A920-69C8EEA7E314}|M13.InterviewProject\\M13.InterviewProject.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\m13.interviewproject\\m13.interviewproject\\interfaces\\iwebpageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31102FCE-EF4C-4920-A920-69C8EEA7E314}|M13.InterviewProject\\M13.InterviewProject.csproj|solutionrelative:m13.interviewproject\\interfaces\\iwebpageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31102FCE-EF4C-4920-A920-69C8EEA7E314}|M13.InterviewProject\\M13.InterviewProject.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\m13.interviewproject\\m13.interviewproject\\interfaces\\iruleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31102FCE-EF4C-4920-A920-69C8EEA7E314}|M13.InterviewProject\\M13.InterviewProject.csproj|solutionrelative:m13.interviewproject\\interfaces\\iruleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31102FCE-EF4C-4920-A920-69C8EEA7E314}|M13.InterviewProject\\M13.InterviewProject.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\m13.interviewproject\\m13.interviewproject\\interfaces\\ispellcheckerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31102FCE-EF4C-4920-A920-69C8EEA7E314}|M13.InterviewProject\\M13.InterviewProject.csproj|solutionrelative:m13.interviewproject\\interfaces\\ispellcheckerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31102FCE-EF4C-4920-A920-69C8EEA7E314}|M13.InterviewProject\\M13.InterviewProject.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\m13.interviewproject\\m13.interviewproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31102FCE-EF4C-4920-A920-69C8EEA7E314}|M13.InterviewProject\\M13.InterviewProject.csproj|solutionrelative:m13.interviewproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31102FCE-EF4C-4920-A920-69C8EEA7E314}|M13.InterviewProject\\M13.InterviewProject.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\desktop\\\u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\m13.interviewproject\\m13.interviewproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31102FCE-EF4C-4920-A920-69C8EEA7E314}|M13.InterviewProject\\M13.InterviewProject.csproj|solutionrelative:m13.interviewproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RuleService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\M13.InterviewProject\\M13.InterviewProject\\Services\\RuleService.cs",
+              "RelativeDocumentMoniker": "M13.InterviewProject\\Services\\RuleService.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\M13.InterviewProject\\M13.InterviewProject\\Services\\RuleService.cs",
+              "RelativeToolTip": "M13.InterviewProject\\Services\\RuleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:34:08.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISpellCheckError.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\M13.InterviewProject\\M13.InterviewProject\\Interfaces\\ISpellCheckError.cs",
+              "RelativeDocumentMoniker": "M13.InterviewProject\\Interfaces\\ISpellCheckError.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\M13.InterviewProject\\M13.InterviewProject\\Interfaces\\ISpellCheckError.cs",
+              "RelativeToolTip": "M13.InterviewProject\\Interfaces\\ISpellCheckError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:16:00.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpellCheckerService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\M13.InterviewProject\\M13.InterviewProject\\Services\\SpellCheckerService.cs",
+              "RelativeDocumentMoniker": "M13.InterviewProject\\Services\\SpellCheckerService.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\M13.InterviewProject\\M13.InterviewProject\\Services\\SpellCheckerService.cs",
+              "RelativeToolTip": "M13.InterviewProject\\Services\\SpellCheckerService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAawBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:43:09.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebPageService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\M13.InterviewProject\\M13.InterviewProject\\Services\\WebPageService.cs",
+              "RelativeDocumentMoniker": "M13.InterviewProject\\Services\\WebPageService.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\M13.InterviewProject\\M13.InterviewProject\\Services\\WebPageService.cs",
+              "RelativeToolTip": "M13.InterviewProject\\Services\\WebPageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:42:54.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISpellCheckerService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\M13.InterviewProject\\M13.InterviewProject\\Interfaces\\ISpellCheckerService.cs",
+              "RelativeDocumentMoniker": "M13.InterviewProject\\Interfaces\\ISpellCheckerService.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\M13.InterviewProject\\M13.InterviewProject\\Interfaces\\ISpellCheckerService.cs",
+              "RelativeToolTip": "M13.InterviewProject\\Interfaces\\ISpellCheckerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:41:20.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IWebPageService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\M13.InterviewProject\\M13.InterviewProject\\Interfaces\\IWebPageService.cs",
+              "RelativeDocumentMoniker": "M13.InterviewProject\\Interfaces\\IWebPageService.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\M13.InterviewProject\\M13.InterviewProject\\Interfaces\\IWebPageService.cs",
+              "RelativeToolTip": "M13.InterviewProject\\Interfaces\\IWebPageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:41:14.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRuleService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\M13.InterviewProject\\M13.InterviewProject\\Interfaces\\IRuleService.cs",
+              "RelativeDocumentMoniker": "M13.InterviewProject\\Interfaces\\IRuleService.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\M13.InterviewProject\\M13.InterviewProject\\Interfaces\\IRuleService.cs",
+              "RelativeToolTip": "M13.InterviewProject\\Interfaces\\IRuleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:41:08.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpellerErrorsModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\M13.InterviewProject\\M13.InterviewProject\\Models\\SpellerErrorsModel.cs",
+              "RelativeDocumentMoniker": "M13.InterviewProject\\Models\\SpellerErrorsModel.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\M13.InterviewProject\\M13.InterviewProject\\Models\\SpellerErrorsModel.cs",
+              "RelativeToolTip": "M13.InterviewProject\\Models\\SpellerErrorsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:59:57.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\M13.InterviewProject\\M13.InterviewProject\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "M13.InterviewProject\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\M13.InterviewProject\\M13.InterviewProject\\appsettings.Development.json",
+              "RelativeToolTip": "M13.InterviewProject\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T08:08:21.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\M13.InterviewProject\\M13.InterviewProject\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "M13.InterviewProject\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\M13.InterviewProject\\M13.InterviewProject\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "M13.InterviewProject\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwDIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:06:28.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\M13.InterviewProject\\M13.InterviewProject\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "M13.InterviewProject\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\M13.InterviewProject\\M13.InterviewProject\\Properties\\launchSettings.json",
+              "RelativeToolTip": "M13.InterviewProject\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T07:55:47.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\M13.InterviewProject\\M13.InterviewProject\\Program.cs",
+              "RelativeDocumentMoniker": "M13.InterviewProject\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u043A \u0441\u043E\u0431\u0435\u0441\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044E\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\M13.InterviewProject\\M13.InterviewProject\\Program.cs",
+              "RelativeToolTip": "M13.InterviewProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T07:54:24.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
