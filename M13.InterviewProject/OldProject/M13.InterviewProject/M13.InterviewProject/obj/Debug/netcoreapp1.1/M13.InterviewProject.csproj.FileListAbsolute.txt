@@ -1,0 +1,15 @@
+C:\Users\Егор\Desktop\Подготовка к собеседованию\Тестовые задания\старый вариант\M13.InterviewProject\M13.InterviewProject\bin\Debug\netcoreapp1.1\appsettings.Development.json
+C:\Users\Егор\Desktop\Подготовка к собеседованию\Тестовые задания\старый вариант\M13.InterviewProject\M13.InterviewProject\bin\Debug\netcoreapp1.1\appsettings.json
+C:\Users\Егор\Desktop\Подготовка к собеседованию\Тестовые задания\старый вариант\M13.InterviewProject\M13.InterviewProject\bin\Debug\netcoreapp1.1\M13.InterviewProject.deps.json
+C:\Users\Егор\Desktop\Подготовка к собеседованию\Тестовые задания\старый вариант\M13.InterviewProject\M13.InterviewProject\bin\Debug\netcoreapp1.1\M13.InterviewProject.runtimeconfig.json
+C:\Users\Егор\Desktop\Подготовка к собеседованию\Тестовые задания\старый вариант\M13.InterviewProject\M13.InterviewProject\bin\Debug\netcoreapp1.1\M13.InterviewProject.runtimeconfig.dev.json
+C:\Users\Егор\Desktop\Подготовка к собеседованию\Тестовые задания\старый вариант\M13.InterviewProject\M13.InterviewProject\bin\Debug\netcoreapp1.1\M13.InterviewProject.dll
+C:\Users\Егор\Desktop\Подготовка к собеседованию\Тестовые задания\старый вариант\M13.InterviewProject\M13.InterviewProject\bin\Debug\netcoreapp1.1\M13.InterviewProject.pdb
+C:\Users\Егор\Desktop\Подготовка к собеседованию\Тестовые задания\старый вариант\M13.InterviewProject\M13.InterviewProject\obj\Debug\netcoreapp1.1\M13.InterviewProject.csproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\Подготовка к собеседованию\Тестовые задания\старый вариант\M13.InterviewProject\M13.InterviewProject\obj\Debug\netcoreapp1.1\M13.InterviewProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Desktop\Подготовка к собеседованию\Тестовые задания\старый вариант\M13.InterviewProject\M13.InterviewProject\obj\Debug\netcoreapp1.1\M13.InterviewProject.AssemblyInfoInputs.cache
+C:\Users\Егор\Desktop\Подготовка к собеседованию\Тестовые задания\старый вариант\M13.InterviewProject\M13.InterviewProject\obj\Debug\netcoreapp1.1\M13.InterviewProject.AssemblyInfo.cs
+C:\Users\Егор\Desktop\Подготовка к собеседованию\Тестовые задания\старый вариант\M13.InterviewProject\M13.InterviewProject\obj\Debug\netcoreapp1.1\M13.InterviewProject.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\Подготовка к собеседованию\Тестовые задания\старый вариант\M13.InterviewProject\M13.InterviewProject\obj\Debug\netcoreapp1.1\M13.InterviewProject.dll
+C:\Users\Егор\Desktop\Подготовка к собеседованию\Тестовые задания\старый вариант\M13.InterviewProject\M13.InterviewProject\obj\Debug\netcoreapp1.1\M13.InterviewProject.pdb
+C:\Users\Егор\Desktop\Подготовка к собеседованию\Тестовые задания\старый вариант\M13.InterviewProject\M13.InterviewProject\obj\Debug\netcoreapp1.1\M13.InterviewProject.genruntimeconfig.cache
